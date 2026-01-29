@@ -51,7 +51,7 @@ export const Contact: React.FC = () => {
               LINKEDIN
             </a>
             <a 
-              href="/path-to-your-cv.pdf" 
+              href="/CVdesigner_SolBruna" 
               download
               className="text-sm font-bold text-[#f383f7] hover:opacity-70 transition-all tracking-widest border-t md:border-t-0 pt-4 md:pt-0 border-gray-100 dark:border-gray-900"
             >
